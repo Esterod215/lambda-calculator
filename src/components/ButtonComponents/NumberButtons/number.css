@@ -1,0 +1,12 @@
+.number-container{
+    display:flex;
+    width: 74%;
+    border: 1px solid blue;
+}
+.number-button{
+    width: 40%;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    border: 1px solid red;
+
+}
